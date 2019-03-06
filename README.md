@@ -8,4 +8,4 @@ Tags multiple sub repos
 ## git_release.sh
 Tags current repository
 
-Use: sh *script_name.sh* "/<Version/>" "/<Commit Message/>"
+Use: sh *script_name.sh* "Version" "Commit Message"
